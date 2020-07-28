@@ -9,12 +9,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "id": 2,
+      "available": true
     },
     {
       "id": 3,
@@ -23,6 +23,21 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Italiana",
+      "price": "23.00",
+      "description": "Tradicional Italiana com a mesma receita desde 1689.",
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Gaúcha",
+      "price": "21.00",
+      "description": "Remete aos campos gaudérios com sua fartura de carnes com cortes finos.",
+      "id": 5,
+      "available": true
     }
   ]
 }
